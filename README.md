@@ -6,21 +6,27 @@ Yang dibutuhkan :
 Langkah membuat akun Repository :
 
 1.	Buat akun git di laman https://github.com , masukan Username, Email dan password lalu klik sign up, Lalu Verifikasi akun dengan memasukan chapta
+
 ![git15b](https://user-images.githubusercontent.com/57025775/67614244-b0f51780-f7e3-11e9-97bb-a042c44e6431.jpg)
 
 2.Lalu pilih free $0 USD
+
 ![git16](https://user-images.githubusercontent.com/57025775/67614261-e7cb2d80-f7e3-11e9-90c8-25631b61a0eb.jpg)
 
 3.	pilih "A LITTLE " dan klik complete setup atau bisa di skip
+
 ![git17](https://user-images.githubusercontent.com/57025775/67614286-91122380-f7e4-11e9-8551-4933c623b56c.jpg)
 
 4.	cek di gmail anda akan ada pesan baru dari github dan klik verfiy email address
+
 ![git18](https://user-images.githubusercontent.com/57025775/67614301-e2221780-f7e4-11e9-9262-06215da533d1.jpg)
 
 5.	lalu akan di alihkan ke tab baru untuk create a new repository isi repository name lalu klik create repository
+
 ![git19c](https://user-images.githubusercontent.com/57025775/67614311-139ae300-f7e5-11e9-889a-dcd89e8767f3.jpg)
 
 6.	tampilan repository yang baru
+
 ![git20](https://user-images.githubusercontent.com/57025775/67614320-4644db80-f7e5-11e9-87df-aad6984d911a.jpg)
 
 Menginstall aplikasi git :
